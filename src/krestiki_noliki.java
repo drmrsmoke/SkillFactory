@@ -57,5 +57,4 @@ public class krestiki_noliki{
        return "Nichia";
    }
 
-
 }
