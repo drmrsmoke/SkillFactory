@@ -12,7 +12,7 @@ public class Client implements Runnable{
     Scanner in;
     PrintStream out;
     ChatBot server;
-
+    //only for git
     public Client(Socket socket, ChatBot server) {
 
         this.socket = socket;
